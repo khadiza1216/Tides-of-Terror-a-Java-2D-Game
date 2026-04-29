@@ -1,0 +1,19 @@
+# Java build outputs
+*.class
+
+# Common OS/editor clutter
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
