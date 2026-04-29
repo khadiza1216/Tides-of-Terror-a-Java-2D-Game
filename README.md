@@ -33,7 +33,4 @@ Controls are handled by the game window (keyboard). If your build differs, check
 - **Entities**: `Diver`, `Shark`, `Squid`, `Piranha`, `JellyFish`, `eel`
 - **Assets**: `.png`, `.jpg`, `.gif` files in the repo root
 
-## Notes
-
-- This repo currently includes compiled `.class` files. If you’d like, I can add a `.gitignore` and remove them so GitHub only tracks the source and assets.
 
